@@ -52,7 +52,7 @@ div.WordSection1
 <div class=WordSection1 style='layout-grid:15.6pt'>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><img
-width=554 height=370 id="ͼƬ 1" src="[20240521.files/image001.jpg](https://github.com/WrongLEEE/WrongLEEE/blob/main/image001.tiff)"></span></p>
+width=554 height=370 id="ͼƬ 1" src="https://github.com/WrongLEEE/WrongLEEE/blob/main/image001.jpg"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
 style='font-family:" Light"'>20240520-Grain Buds</span></b></p>
