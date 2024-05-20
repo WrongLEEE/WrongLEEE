@@ -5,24 +5,7 @@
 - ⚡ 爱你，很迟但真诚
 - 💞️ MY LITTLE PRINCESS
 - 📫 杨青云
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=gb2312">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:;
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
-@font-face
-	{font-family:" Light";
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
-@font-face
-	{font-family:"\@";
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
-@font-face
-	{font-family:"\@ Light";}
+
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{margin:0cm;
