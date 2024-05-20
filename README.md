@@ -19,8 +19,3 @@ style='font-family:" Light"'>20240520-Grain Buds</span></b></p>
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
 style='font-family:" Light"'>Love U anytime, and sincerely!</span></b></p>
 
-</div>
-
-</body>
-
-</html>
