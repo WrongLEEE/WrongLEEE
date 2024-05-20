@@ -5,9 +5,6 @@
 - ⚡ 爱你，很迟但真诚
 - 💞️ MY LITTLE PRINCESS
 - 📫 杨青云
-
-<html>
-
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
