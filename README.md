@@ -44,7 +44,6 @@
 div.WordSection1
 	{page:WordSection1;}
 -->
-</style>
 
 </head>
 
