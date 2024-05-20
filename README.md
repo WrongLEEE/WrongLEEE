@@ -11,7 +11,7 @@
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
+
 <!--
  /* Font Definitions */
  @font-face
