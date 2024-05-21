@@ -5,9 +5,4 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--  <img src="![0521](https://github.com/WrongLEEE/WrongLEEE/assets/170352970/d9421e3a-cf6f-4abc-adde-d64117975a39)
-">
 
-<!---WrongLEEE/WrongLEEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
